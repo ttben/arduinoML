@@ -26,7 +26,7 @@ public class ArduinoApplication {
         return new ArduinoApplication(name);
     }
 
-    public Plugs plugBricks(){
+    public IPlugs plugBricks(){
         plugs = new Plugs(this);
         return plugs;
     }

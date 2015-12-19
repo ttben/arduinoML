@@ -1,5 +1,6 @@
 package idm.impl2;
 
+import com.sun.javafx.tk.PlatformImage;
 import io.github.mosser.arduinoml.kernel.structural.Brick;
 
 /**

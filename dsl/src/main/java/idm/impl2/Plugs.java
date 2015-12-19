@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Created by Sébastien on 19/12/2015.
  */
-public class Plugs {
+public class Plugs implements IPlugs {
 
     private List<Actuator> actuators;
     private List<Sensor> sensors;
