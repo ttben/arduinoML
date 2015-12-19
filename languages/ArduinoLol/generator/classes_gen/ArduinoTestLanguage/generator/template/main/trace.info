@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="14,0,61,0" name="ArduinoTestLanguage.generator.template.main.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421904619766">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421905085164" at="17,112,18,336" concept="1" />
+      <node id="5379103421904900185" at="51,120,52,192" concept="1" />
+      <node id="5379103421905345524" at="54,120,55,192" concept="1" />
+      <scope id="5379103421905083661" at="17,112,18,336" />
+      <scope id="5379103421904900179" at="51,120,52,192" />
+      <scope id="5379103421905345518" at="54,120,55,192" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421904820423">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421904851231" at="20,112,21,185" concept="1" />
+      <scope id="5379103421904838638" at="20,112,21,185" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421904931495">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421905371948" at="23,112,24,185" concept="1" />
+      <scope id="5379103421905371942" at="23,112,24,185" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421905090750">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421905110156" at="26,112,27,345" concept="1" />
+      <node id="5379103421905118686" at="29,112,30,219" concept="1" />
+      <scope id="5379103421905108612" at="26,112,27,345" />
+      <scope id="5379103421905116039" at="29,112,30,219" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421905123920">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421905188083" at="32,112,33,343" concept="1" />
+      <node id="5379103421905196145" at="35,112,36,219" concept="1" />
+      <node id="5379103421905561740" at="38,112,39,333" concept="1" />
+      <node id="5379103421905215626" at="41,112,42,64" concept="1" />
+      <scope id="5379103421905186249" at="32,112,33,343" />
+      <scope id="5379103421905193565" at="35,112,36,219" />
+      <scope id="5379103421905559339" at="38,112,39,333" />
+      <scope id="5379103421905213442" at="41,112,42,64" />
+    </file>
+  </root>
+  <root nodeRef="r:204aa912-6562-4265-9126-40f163c98dcf(ArduinoTestLanguage.generator.template.main@generator)/5379103421905222222">
+    <file name="QueriesGenerated.java">
+      <node id="5379103421905254941" at="44,112,45,175" concept="1" />
+      <node id="5379103421905483632" at="47,108,48,217" concept="0" />
+      <node id="5379103421905351020" at="48,217,49,195" concept="1" />
+      <node id="5379103421905349245" at="57,120,58,193" concept="1" />
+      <scope id="5379103421905254935" at="44,112,45,175" />
+      <scope id="5379103421905349239" at="57,120,58,193" />
+      <scope id="5379103421905351014" at="47,108,49,195" />
+    </file>
+  </root>
+</debug-info>
+

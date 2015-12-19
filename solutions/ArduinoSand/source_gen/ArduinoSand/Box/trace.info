@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info>
+  <concept fqn="jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:70bbd736-b363-4b34-8dc4-f96be016bcee(ArduinoSand.Box)/5379103421904994794">
+    <file name="map_App.java">
+      <node id="5379103421904994794" at="8,42,9,58" concept="0" />
+      <node id="5379103421904994794" at="9,58,10,40" concept="0" />
+      <node id="5379103421904994850" at="10,40,11,59" concept="0" />
+      <node id="5379103421904994872" at="11,59,12,56" concept="0" />
+      <node id="5379103421904994794" at="12,56,13,28" concept="0" />
+      <node id="5379103421904994794" at="13,28,14,0" concept="1" />
+      <node id="5379103421904994794" at="14,0,15,51" concept="0" />
+      <node id="5379103421904994794" at="15,51,16,64" concept="0" />
+      <node id="5379103421904994794" at="16,64,17,0" concept="1" />
+      <node id="5379103421905019347" at="17,0,18,53" concept="0" />
+      <node id="5379103421905019379" at="18,53,19,72" concept="0" />
+      <node id="5379103421905019347" at="19,72,20,74" concept="0" />
+      <node id="5379103421905019348" at="20,74,21,73" concept="0" />
+      <node id="5379103421905019348" at="21,73,22,74" concept="0" />
+      <node id="5379103421905019348" at="22,74,23,63" concept="0" />
+      <node id="5379103421905019347" at="23,63,24,30" concept="0" />
+      <node id="5379103421905019387" at="24,30,25,54" concept="0" />
+      <node id="5379103421905019402" at="25,54,26,71" concept="0" />
+      <node id="5379103421905019387" at="26,71,27,74" concept="0" />
+      <node id="5379103421905019388" at="27,74,28,72" concept="0" />
+      <node id="5379103421905019388" at="28,72,29,73" concept="0" />
+      <node id="5379103421905019388" at="29,73,30,64" concept="0" />
+      <node id="5379103421905019387" at="30,64,31,30" concept="0" />
+      <node id="5379103421904994794" at="31,30,32,0" concept="1" />
+      <node id="5379103421904994794" at="32,0,33,91" concept="0" />
+      <node id="5379103421904994794" at="8,0,35,0" concept="2" trace="main#([Ljava/lang/String;)V" />
+      <scope id="5379103421904994850" at="10,40,11,59" />
+      <scope id="5379103421904994872" at="11,59,12,56" />
+      <scope id="5379103421905019379" at="18,53,19,72" />
+      <scope id="5379103421905019402" at="25,54,26,71" />
+      <scope id="5379103421905019348" at="20,74,23,63" />
+      <scope id="5379103421905019388" at="27,74,30,64" />
+      <scope id="5379103421905019347" at="17,0,24,30" />
+      <scope id="5379103421905019387" at="24,30,31,30" />
+      <scope id="5379103421904994794" at="8,42,33,91" />
+      <scope id="5379103421904994794" at="8,0,35,0">
+        <var name="args" id="5379103421904994794" />
+      </scope>
+      <unit id="5379103421904994794" at="6,0,36,0" name="ArduinoSand.Box.map_App" />
+    </file>
+  </root>
+</debug-info>
+

@@ -2,3 +2,6 @@
 .idea
 .bin
 .target
+.mps
+
+*.class
